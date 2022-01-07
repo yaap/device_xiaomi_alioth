@@ -6,7 +6,6 @@ system_ext/lib64/libaptXHD_encoder.so
 
 # HBM-SV
 -system_ext/priv-app/HbmSVManager/HbmSVManager.apk
--system_ext/etc/permissions/privapp-permissions-google-se.xml:system_ext/etc/permissions/privapp-permissions-google-se-lineage.xml
 
 # HotwordEnrollment
 -product/priv-app/HotwordEnrollmentOKGoogleHEXAGON/HotwordEnrollmentOKGoogleHEXAGON.apk
