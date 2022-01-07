@@ -1,0 +1,30 @@
+[
+  {
+    "repository"  : "SnuggyWuggy/device_xiaomi_alioth-firmware",
+    "target_path" : "device/xiaomi/alioth-firmware",
+    "clone-depth" : "1",
+    "branch"      : "lineage-19.0",
+    "remote"      : "gitlab"
+  },
+  {
+    "repository"  : "SnuggyWuggy/device_xiaomi_alioth-kernel",
+    "target_path" : "device/xiaomi/alioth-kernel",
+    "clone-depth" : "1",
+    "branch"      : "lineage-19.0",
+    "remote"      : "github"
+  },
+  {
+    "repository"  : "SnuggyWuggy/vendor_xiaomi_alioth",
+    "target_path" : "vendor/xiaomi/alioth",
+    "clone-depth" : "1",
+    "branch"      : "lineage-19.0",
+    "remote"      : "github"
+  },
+  {
+    "repository"  : "SnuggyWuggy/vendor_xiaomi_alioth-vendor",
+    "target_path" : "vendor/xiaomi/alioth-vendor",
+    "clone-depth" : "1",
+    "branch"      : "lineage-19.0",
+    "remote"      : "gitlab"
+  }
+]

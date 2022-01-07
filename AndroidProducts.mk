@@ -16,7 +16,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_alioth.mk
-
-COMMON_LUNCH_CHOICES := \
-    lineage_alioth-userdebug
+    $(LOCAL_DIR)/yaap_alioth.mk
