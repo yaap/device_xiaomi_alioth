@@ -33,10 +33,6 @@ PRODUCT_NAME := yaap_alioth
 PRODUCT_DEVICE := alioth
 PRODUCT_MODEL := M2012K11AG
 
-# Build info
-PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRODUCT_NAME=alioth
-
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 scr_resolution := 1080

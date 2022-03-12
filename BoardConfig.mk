@@ -193,4 +193,7 @@ BOARD_SUPER_PARTITION_ERROR_LIMIT := 8602517504
 # DTB
 BOARD_PREBUILT_DTBIMAGE_DIR := device/xiaomi/$(TARGET_BOOTLOADER_BOARD_NAME)-kernel
 
+# Init
+TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):libinit_alioth
+
 include device/xiaomi/alioth-firmware/BoardConfigVendor.mk
